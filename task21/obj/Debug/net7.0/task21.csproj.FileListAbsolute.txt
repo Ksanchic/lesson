@@ -1,0 +1,15 @@
+/Users/krr/Desktop/lesson/task21/bin/Debug/net7.0/task21
+/Users/krr/Desktop/lesson/task21/bin/Debug/net7.0/task21.deps.json
+/Users/krr/Desktop/lesson/task21/bin/Debug/net7.0/task21.runtimeconfig.json
+/Users/krr/Desktop/lesson/task21/bin/Debug/net7.0/task21.dll
+/Users/krr/Desktop/lesson/task21/bin/Debug/net7.0/task21.pdb
+/Users/krr/Desktop/lesson/task21/obj/Debug/net7.0/task21.csproj.AssemblyReference.cache
+/Users/krr/Desktop/lesson/task21/obj/Debug/net7.0/task21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krr/Desktop/lesson/task21/obj/Debug/net7.0/task21.AssemblyInfoInputs.cache
+/Users/krr/Desktop/lesson/task21/obj/Debug/net7.0/task21.AssemblyInfo.cs
+/Users/krr/Desktop/lesson/task21/obj/Debug/net7.0/task21.csproj.CoreCompileInputs.cache
+/Users/krr/Desktop/lesson/task21/obj/Debug/net7.0/task21.dll
+/Users/krr/Desktop/lesson/task21/obj/Debug/net7.0/refint/task21.dll
+/Users/krr/Desktop/lesson/task21/obj/Debug/net7.0/task21.pdb
+/Users/krr/Desktop/lesson/task21/obj/Debug/net7.0/task21.genruntimeconfig.cache
+/Users/krr/Desktop/lesson/task21/obj/Debug/net7.0/ref/task21.dll
